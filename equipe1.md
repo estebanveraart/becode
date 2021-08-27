@@ -45,6 +45,6 @@ https://github.com/estebanveraart
 
     Bonjour, je m'appelle Esteban et j'ai 23 ans. Après la formation de Becode j'ambitionne d'une part de prendre de l'experience dans une société et évoluer mais surtout réaliser des projets personnels comme un site de review de manga, manhua, manwah.
 
-    "Dans ce monde, il y a des gens qui préfèrent la solitude. Mais il n'y a personne au monde qui puisse la supporter." 
+    "Dans ce monde, il y a des gens qui préfèrent la solitude. Mais il n'y a personne au monde qui puisse la supporter." et voila
 
 
